@@ -1,4 +1,4 @@
-# Active Record CRUD
+1k thanks # Active Record CRUD
 
 ## Objective
 
